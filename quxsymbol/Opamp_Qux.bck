@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJU7043D
+D Dual operational amplifier
+K nju7043 opamp
+F http://akizukidenshi.com/catalog/g/gI-06840/
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM2737D
+D Dual operational amplifier
+K njm2737 opamp
+F http://akizukidenshi.com/catalog/g/gI-08231/
+$ENDCMP
+#
+$CMP NJU7043D
+D Dual operational amplifier
+K nju7043 opamp
+F http://akizukidenshi.com/catalog/g/gI-06840/
+$ENDCMP
+#
+#End Doc Library

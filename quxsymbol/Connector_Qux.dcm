@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AudioJack_TRS
+D Audio Jack, 3 Poles (Stereo / TRS)
+K audio jack receptacle stereo headphones phones TRS connector
+F http://akizukidenshi.com/catalog/g/gC-08958/
+$ENDCMP
+#
+$CMP AudioJack_TRS_sw
+D Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)
+K audio jack receptacle stereo headphones phones TRS connector
+F https://www.marutsu.co.jp/pc/i/46705/
+$ENDCMP
+#
+$CMP Conn_Power_USB
+D USB connector only for power
+F http://akizukidenshi.com/catalog/g/gC-10398/
+$ENDCMP
+#
+#End Doc Library
