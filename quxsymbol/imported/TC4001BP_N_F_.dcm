@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC4001BP_N,F_
+D Toshiba TC4001BP(N,F), Quad 2-Input NOR Logic Gate, 3  18 V, 14-Pin PDIP
+K
+F http://uk.rs-online.com/web/p/products/0580846
+$ENDCMP
+#
+#End Doc Library
