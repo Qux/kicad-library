@@ -10,8 +10,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'MJ352W-C',
-/* time_stamp */ '2023-10-09T10:11:34+09:00',
+/* name */ 'capacitor',
+/* time_stamp */ '2023-10-09T10:18:06+09:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v16.5',
