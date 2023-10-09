@@ -82,8 +82,8 @@
   (pad "3" thru_hole oval (at 13.1 4) (size 2 2.5) (drill oval 0.6 1.5) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 2f0819d9-f809-4298-a4f6-412d0f4f36d3))
   (pad "4" thru_hole oval (at 8.5 -3) (size 2.4 1.7) (drill oval 1.5 0.6) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp e5d9cb4c-efc6-466b-b0f1-bd064b4a9e08))
   (pad "5" thru_hole oval (at 9.9 -5.05) (size 2.4 1.7) (drill oval 1.5 0.6) (layers "*.Cu" "*.Mask" "F.SilkS") (tstamp 245cca8a-568c-4d62-b99c-6b1f1bf1a682))
-  (model "${KIQUX}/qux3d/MJ352W-C.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIQUX}/qux3d/MJ352W-C.step"
+    (offset (xyz 0 -5.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
