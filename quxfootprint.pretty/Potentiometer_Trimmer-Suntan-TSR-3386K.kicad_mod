@@ -20,7 +20,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.71 1.71) (drill 0.58) (layers "*.Cu" "*.Mask") (tstamp 29c53c00-0423-4e80-bc8a-dd5c147fff0e))
   (pad "2" thru_hole circle (at 1.79578 -1.79578) (size 1.71 1.71) (drill 0.58) (layers "*.Cu" "*.Mask") (tstamp 8c21443e-8ce9-47d8-9155-38708e447687))
   (pad "3" thru_hole circle (at 3.59156 0) (size 1.71 1.71) (drill 0.58) (layers "*.Cu" "*.Mask") (tstamp e6bf3a22-4595-43c9-bdfe-6c5592477d44))
-  (model "${KICAD_QUX}/qux3d/3386K.step"
+  (model "${KIQUX}/qux3d/3386K.step"
     (offset (xyz -3 5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

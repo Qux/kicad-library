@@ -28,7 +28,7 @@
   (pad "R" thru_hole oval (at 5.05 7.8 90) (size 2.6 1.4) (drill oval 1.8 0.9) (layers "*.Cu" "*.Mask") (tstamp 30f61655-bb8f-464b-a661-972cfdc92de6))
   (pad "S" thru_hole oval (at 0 0) (size 2.6 1.4) (drill oval 1.8 0.9) (layers "*.Cu" "*.Mask") (tstamp f92595f3-17fe-470a-b777-4e60b5424146))
   (pad "T" thru_hole oval (at -4.55 3.3 90) (size 2.6 1.4) (drill oval 1.8 0.9) (layers "*.Cu" "*.Mask") (tstamp 65a3f6e3-6284-4840-8421-1911640d1220))
-  (model "${KICAD_QUX}/qux3d/MJ352W-O.step"
+  (model "${KIQUX}/qux3d/MJ352W-O.step"
     (offset (xyz -5.5 2 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
