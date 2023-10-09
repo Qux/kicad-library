@@ -17,7 +17,6 @@
 ### フットプリントライブラリ
 1. `Preference` -> `Manage Footprint Library...`を開く
 2. `Project Specific Libraries`に以下を追加する。  
-    例: 
     | Nickname | Library Path |
     | ---- | ---- |
     | Qux_Footprint | ${KIQUX}/quxfootprint.pretty |
